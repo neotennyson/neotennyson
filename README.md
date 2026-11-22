@@ -1,5 +1,5 @@
 # Hey, I'm Hemanth 👋
-Growth by day, building by night. Bangalore.
+building by night.
 
 I build with AI coding agents — fast, and tested hard.
 
